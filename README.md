@@ -1,6 +1,8 @@
 # dotfiles
 
 openbox dotfiles
+first time using github
+sry lol
 
 
 <h1>stolen form</h1>
