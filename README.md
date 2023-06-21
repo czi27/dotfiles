@@ -13,6 +13,7 @@ nuxshed / https://github.com/nuxshed/dotfiles
 </pre>
 <img src="./sample.png">
 <img src="./other.png">
+<img src="./banger.png">
 
 
 
