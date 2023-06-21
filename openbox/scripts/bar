@@ -127,7 +127,7 @@ wttr(){
 
     #wttr_get=$(curl -Ss 'https://wttr.in/?0&T&Q' | cut -c 16- | head -2 | xargs echo)
 	wttr_get_name=$(curl -Ss 'https://wttr.in/' | cut -c 16- | head -2 | xargs echo)
-	getWea=$(~/Application/weather3.sh Kediri)
+	getWea=$(~/Application/weather3.sh yourlocation)
 	echo "${getWea}" 
 
 }
