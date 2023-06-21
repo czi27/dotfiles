@@ -4,11 +4,11 @@ openbox dotfiles
 
 
 <h1>stolen form</h1>
-<p>archcraft
+<pre>archcraft
 archlabs
 wildan-hyprland
 nuxshed / https://github.com/nuxshed/dotfiles
-</p>
+</pre>
 <img src="./sample.png">
 <img src="./other.png">
 
