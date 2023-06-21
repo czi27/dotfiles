@@ -7,9 +7,9 @@ stolen form
 archcraft
 archlabs
 wildan-hyprland
-nuxshed / https://github.com/nuxshed/dotfiles
+<br>nuxshed / https://github.com/nuxshed/dotfiles</br>
 
 
 
-![Uploading Screenshot_2023-06-21-20-44-47_3520x1080.png…]()
+
 
