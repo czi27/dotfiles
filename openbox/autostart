@@ -1,0 +1,11 @@
+# start the panel
+#
+
+# load wallpaper
+nitrogen --restore &
+~/.config/openbox/scripts/obx.sh &
+~/.config/openbox/.xprofile &
+xfce4-power-manager &
+tachidesk &
+~/.config/openbox/autopicom.sh &
+~/.config/openbox/scripts/lbar.sh

@@ -1,0 +1,1 @@
+scrot -d 5 -e 'mv $f $$(xdg-user-dir PICTURES)'
